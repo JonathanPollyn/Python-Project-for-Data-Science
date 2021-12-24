@@ -12,3 +12,4 @@ Python is the programming language that is used for this project and all codes a
 # Files
 Final - Python Project for Data Science.ipynb
 GameStop Graph.jpg
+Tesla Graph.JPG
